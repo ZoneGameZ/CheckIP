@@ -1,0 +1,9 @@
+name: CheckIP
+version: 1.0.0
+main: ZoneGameZ\CheckIP\Main
+api: 3.0.0
+author: ZoneGameZ
+
+commands:
+  ip:
+    description: เช็คไอพีผู้เล่น
